@@ -37,6 +37,6 @@ public class WebDriverManager {
 	}
 
 	public void closeDriver() {
-		// driver.quit();
+		 driver.quit();
 	}
 }
